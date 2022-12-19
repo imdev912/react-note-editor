@@ -1,0 +1,10 @@
+.editor {
+	width: 80%;
+	height: 100vh;
+}
+
+.mde-preview-content {
+	height: 90vh;
+	overflow: auto;
+	word-break: break-word;
+}
